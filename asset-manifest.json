@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/imsafe/static/css/main.43a9d67d.chunk.css",
+    "main.js": "/imsafe/static/js/main.87f0a805.chunk.js",
+    "main.js.map": "/imsafe/static/js/main.87f0a805.chunk.js.map",
+    "runtime-main.js": "/imsafe/static/js/runtime-main.38a75d73.js",
+    "runtime-main.js.map": "/imsafe/static/js/runtime-main.38a75d73.js.map",
+    "static/js/2.ef55c0b7.chunk.js": "/imsafe/static/js/2.ef55c0b7.chunk.js",
+    "static/js/2.ef55c0b7.chunk.js.map": "/imsafe/static/js/2.ef55c0b7.chunk.js.map",
+    "index.html": "/imsafe/index.html",
+    "static/css/main.43a9d67d.chunk.css.map": "/imsafe/static/css/main.43a9d67d.chunk.css.map",
+    "static/js/2.ef55c0b7.chunk.js.LICENSE.txt": "/imsafe/static/js/2.ef55c0b7.chunk.js.LICENSE.txt",
+    "static/media/cog.8c5b9138.svg": "/imsafe/static/media/cog.8c5b9138.svg",
+    "static/media/imsafe.7c9a85f9.png": "/imsafe/static/media/imsafe.7c9a85f9.png",
+    "static/media/list.b91688f1.svg": "/imsafe/static/media/list.b91688f1.svg",
+    "static/media/login.612ca291.svg": "/imsafe/static/media/login.612ca291.svg",
+    "static/media/logout.b382cc9b.svg": "/imsafe/static/media/logout.b382cc9b.svg",
+    "static/media/plus.12fd51ec.svg": "/imsafe/static/media/plus.12fd51ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a75d73.js",
+    "static/js/2.ef55c0b7.chunk.js",
+    "static/css/main.43a9d67d.chunk.css",
+    "static/js/main.87f0a805.chunk.js"
+  ]
+}
