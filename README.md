@@ -7,6 +7,11 @@ npm start로 실행
 (Node.js 설치된 상태)
 
 
+/login
+/regiser
+/home
+
+
 Task
 
     1. NavBar Screen widthmax 950px problem
